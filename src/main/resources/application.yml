@@ -1,0 +1,9 @@
+server:
+  port: 6661
+  servlet:
+    context-path: /api
+alpaca:
+  api:
+    client:
+      access-key: ytls
+      secret-key: ytls
